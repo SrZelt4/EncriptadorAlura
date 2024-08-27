@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap" rel="stylesheet">
+
+    <title>Encriptador de Textos</title>
+
+</head>
+<body>
+    <header>
+        <img class="logo" src="img/logo.png" alt="logo personal" >
+        <h1>Encriptador de Textos</h1>
+    </header>
+    <div class="container">
+        
+        
+    <main>
+    <section>
+        
+        <textarea id="input-text" class="text-area" cols="15" rows="10" placeholder="Escribe tu texto aquí..."></textarea>
+        
+        <div>
+            <h9 class="info">*Para su correcto funcionamiento solo utilizar letras minusculas y no hacer uso de acentos.</h9>
+        </div>
+
+        <div class="buttons">
+            <button id="encrypt-btn">Encriptar</button>
+            <button id="decrypt-btn">Desencriptar</button>
+            <button id="copy-btn">Copiar</button>
+        </div>
+    </section>
+    
+    <section>
+        <textarea id="output-text" cols="15" rows="10" class="resultado" readonly placeholder="Resultado..."></textarea>      
+    </section>
+        
+
+    </main>
+    </div>
+
+    <footer class="footer">
+        
+        <p>Hecho por Sebastian R con ayuda de la comunidad de Alura.</p>
+        <img class="alura" src="img/alura.png" alt="logo alura" >
+    </footer>
+    
+
+<script src="script.js"></script>
+</body>
+</html>
