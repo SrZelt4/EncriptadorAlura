@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Encriptador de Textos</title>
-</head>
-<body>
     <h1>🌟 ¡Bienvenido al Encriptador de Textos! 🌟</h1>
     
-    <p>¡Hola! 👋 Gracias por pasar por aquí. Este es un proyecto sencillo pero interesante que te permitirá encriptar y desencriptar textos utilizando un sistema de sustitución de letras. Ideal para intercambiar mensajes secretos con tus amigos. 🚀</p>
+    ¡Hola! 👋 Gracias por pasar por aquí. Este es un proyecto sencillo pero interesante que te permitirá encriptar y desencriptar textos utilizando un sistema de sustitución de letras. Ideal para intercambiar mensajes secretos con tus amigos. 🚀
 
     <h2>📝 Descripción del Proyecto</h2>
     
@@ -31,5 +23,3 @@
 
     <h2>📞 Contacto</h2>
     <p><em>Puedes agregar aquí tus datos de contacto, como tu correo electrónico, LinkedIn, o cualquier otra red social donde te gustaría que te contacten.</em></p>
-</body>
-</html>
