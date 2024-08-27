@@ -1,19 +1,35 @@
-🌟 ¡Bienvenido al Encriptador de Textos! 🌟
-¡Hola! 👋 Gracias por pasar por aquí. Este es un proyecto sencillo pero interesante que te permitirá encriptar y desencriptar textos utilizando un sistema de sustitución de letras. Ideal para intercambiar mensajes secretos con tus amigos. 🚀
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Encriptador de Textos</title>
+</head>
+<body>
+    <h1>🌟 ¡Bienvenido al Encriptador de Textos! 🌟</h1>
+    
+    <p>¡Hola! 👋 Gracias por pasar por aquí. Este es un proyecto sencillo pero interesante que te permitirá encriptar y desencriptar textos utilizando un sistema de sustitución de letras. Ideal para intercambiar mensajes secretos con tus amigos. 🚀</p>
 
-📝 Descripción del Proyecto
-Este proyecto es una herramienta web que te permite convertir textos comunes en mensajes encriptados utilizando un conjunto específico de reglas de sustitución. También puedes revertir el proceso para recuperar el mensaje original. Es una excelente manera de practicar conceptos básicos de programación en JavaScript, HTML, y CSS.
+    <h2>📝 Descripción del Proyecto</h2>
+    
+    <p>Este proyecto es una herramienta web que te permite convertir textos comunes en mensajes encriptados utilizando un conjunto específico de reglas de sustitución. También puedes revertir el proceso para recuperar el mensaje original. Es una excelente manera de practicar conceptos básicos de programación en JavaScript, HTML, y CSS.</p>
 
-✨ Características
-Encriptación de Texto: Convierte tu texto en un mensaje encriptado.
-Desencriptación de Texto: Recupera el mensaje original a partir del texto encriptado.
-Interfaz Simple y Atractiva: Una interfaz limpia y fácil de usar.
-Copiar al Portapapeles: Copia fácilmente el texto encriptado o desencriptado para compartirlo.
-🛠️ Tecnologías Utilizadas
-HTML5: Estructura básica del proyecto.
-CSS3: Estilos y diseño para una interfaz amigable.
-JavaScript: Lógica de encriptación y desencriptación.
-📞 Contacto
-Puedes agregar aquí tus datos de contacto, como tu correo electrónico, LinkedIn, o cualquier otra red social donde te gustaría que te contacten.
+    <h2>✨ Características</h2>
+    <ul>
+        <li><strong>Encriptación de Texto:</strong> Convierte tu texto en un mensaje encriptado.</li>
+        <li><strong>Desencriptación de Texto:</strong> Recupera el mensaje original a partir del texto encriptado.</li>
+        <li><strong>Interfaz Simple y Atractiva:</strong> Una interfaz limpia y fácil de usar.</li>
+        <li><strong>Copiar al Portapapeles:</strong> Copia fácilmente el texto encriptado o desencriptado para compartirlo.</li>
+    </ul>
 
-https://srzelt4.github.io/EncriptadorAlura/
+    <h2>🛠️ Tecnologías Utilizadas</h2>
+    <ul>
+        <li><strong>HTML5:</strong> Estructura básica del proyecto.</li>
+        <li><strong>CSS3:</strong> Estilos y diseño para una interfaz amigable.</li>
+        <li><strong>JavaScript:</strong> Lógica de encriptación y desencriptación.</li>
+    </ul>
+
+    <h2>📞 Contacto</h2>
+    <p><em>Puedes agregar aquí tus datos de contacto, como tu correo electrónico, LinkedIn, o cualquier otra red social donde te gustaría que te contacten.</em></p>
+</body>
+</html>
